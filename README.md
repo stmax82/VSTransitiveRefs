@@ -2,7 +2,7 @@
 
 * Open Solution{A,B,C,D} in VS
 * In case of .NET Framework application -> click "Restore NuGet Packages"
-* Start (ctrl-f5)
+* Start (Ctrl-F5)
 
 ## SolutionA
 
@@ -31,3 +31,7 @@ MyNETFrameworkApp -> MyNETStandardLib -> Newtonsoft.Json
 Also doesn't work with the same error:
 
 MyMonoAndroidApp -> MyNETStandardLib -> Newtonsoft.Json
+
+## Tested with
+
+VS2017 15.6.0
