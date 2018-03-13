@@ -27,10 +27,6 @@ MyNETFrameworkApp -> MyNETStandardLib -> Newtonsoft.Json
 
 (**doesn't work! System.IO.FileNotFoundException: Could not load file or assembly 'Newtonsoft.Json...'**)
 
-Also doesn't work with the same error:
-
-MyMonoAndroidApp -> MyNETStandardLib -> Newtonsoft.Json
-
 ## Tested with
 
 VS2017 15.6.0, 15.6.1
