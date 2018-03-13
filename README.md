@@ -1,7 +1,6 @@
 # Visual Studio Transitive References
 
 * Open Solution{A,B,C,D} in VS
-* In case of .NET Framework application -> click "Restore NuGet Packages"
 * Start (Ctrl-F5)
 
 ## SolutionA
