@@ -33,4 +33,4 @@ MyMonoAndroidApp -> MyNETStandardLib -> Newtonsoft.Json
 
 ## Tested with
 
-VS2017 15.6.0
+VS2017 15.6.0, 15.6.1
